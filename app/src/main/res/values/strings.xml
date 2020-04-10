@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AudioColorApp</string>
+    <string name="play">PLAY</string>
+    <string name="stop">STOP</string>
+    <string name="pause">PAUSE</string>
+    <string name="hex">HEX: \\</string>
+    <string name="hex_nrgb">HEX: \nRGB:</string>
+    <string name="turn_on">Turn On</string>
+    <string name="turn_off">Turn Off</string>
+
+</resources>
